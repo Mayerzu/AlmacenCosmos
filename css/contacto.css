@@ -1,0 +1,18 @@
+/* Estilos personalizados para la página Contacto */
+
+/* Fondo general */
+body {
+    background-color: #fff;
+    color: #333; /* Gris oscuro para texto */
+    font-family: Arial, sans-serif;
+}
+
+/* Títulos */
+h1 {
+    color: #f8b8b8; /* Salmón suave */
+}
+
+/* Mapa */
+iframe {
+    border-radius: 10px;
+}

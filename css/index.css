@@ -1,0 +1,33 @@
+
+/* Fondo general */
+body {
+    background-color: #fff;
+    color: #333; /* Gris oscuro para texto */
+    font-family: Arial, sans-serif;
+}
+
+/* Ajustes para las tarjetas */
+.card {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    transition: transform 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+    color: #f8b8b8; /* Salmón suave */
+}
+
+/* Botones */
+.btn:hover {
+    background-color: #a85f5f; /* Salmón más oscuro para hover */
+}
+.carousel-img {
+    max-height: 300px;
+    object-fit: cover;
+    margin: 0 auto;
+}
