@@ -2,7 +2,7 @@
 /* Fondo general */
 body {
     background-color: #fff;
-    color: #333; /* Gris oscuro para texto */
+    color: #333; 
     font-family: Arial, sans-serif;
 }
 
@@ -19,12 +19,13 @@ body {
 }
 
 .card-title {
-    color: #f8b8b8; /* Salmón suave */
+    color: #f8b8b8; 
+    font-family: 'Roboto', sans-serif;
 }
 
 /* Botones */
 .btn:hover {
-    background-color: #a85f5f; /* Salmón más oscuro para hover */
+    background-color: #a85f5f; 
 }
 .carousel-img {
     max-height: 300px;
